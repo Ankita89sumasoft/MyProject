@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AutomationAPITesting/src/AutomationAPITesting.iml" filepath="$PROJECT_DIR$/../AutomationAPITesting/src/AutomationAPITesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MobileAPKAutomationwithhybridgeFrameWork/MobileAPKAutomationwithhybridgeFrameWork.iml" filepath="$PROJECT_DIR$/../MobileAPKAutomationwithhybridgeFrameWork/MobileAPKAutomationwithhybridgeFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WheelEMIAPK1.iml" filepath="$PROJECT_DIR$/WheelEMIAPK1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../heropayout_automation/src/heropayout_automation.iml" filepath="$PROJECT_DIR$/../heropayout_automation/src/heropayout_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../heropayout_automation/heropayout_automation1.iml" filepath="$PROJECT_DIR$/../heropayout_automation/heropayout_automation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AutomationAPITesting/jj/jj.iml" filepath="$PROJECT_DIR$/../AutomationAPITesting/jj/jj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ckross_los_qa_automation/src/main/main.iml" filepath="$PROJECT_DIR$/../ckross_los_qa_automation/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../java-selenium-cucumber-master/java-selenium-cucumber-master/src/main/main1.iml" filepath="$PROJECT_DIR$/../../java-selenium-cucumber-master/java-selenium-cucumber-master/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ckross_los_qa_automation/src/test/test.iml" filepath="$PROJECT_DIR$/../ckross_los_qa_automation/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

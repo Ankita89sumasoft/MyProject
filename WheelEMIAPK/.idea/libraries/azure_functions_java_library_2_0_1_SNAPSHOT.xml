@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="azure-functions-java-library-2.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Finequs/Azure.Functions.Cli.win-x64.4.0.4895/workers/java/annotationLib/azure-functions-java-library-2.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

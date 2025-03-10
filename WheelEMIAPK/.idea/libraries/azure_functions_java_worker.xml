@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="azure-functions-java-worker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Finequs/Azure.Functions.Cli.win-x64.4.0.4895/workers/java/azure-functions-java-worker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
